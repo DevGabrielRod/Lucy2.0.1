@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a44a1d69-5f36-41af-9c78-322666f1b8ca" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/allclasses.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/allclasses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/br/com/kingsman/AppTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/br/com/kingsman/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/br/com/kingsman/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/br/com/kingsman/class-use/AppTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/br/com/kingsman/class-use/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/br/com/kingsman/class-use/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/br/com/kingsman/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/br/com/kingsman/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/br/com/kingsman/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/br/com/kingsman/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/br/com/kingsman/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/br/com/kingsman/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/index-files/index-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/member-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/type-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/kingsman/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/kingsman/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2RsYvgVvjRnvwRK6JBvP3ImQvVA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "DEV",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="br.com.kingsman.Main" />
+      <module name="Lucy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.kingsman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a44a1d69-5f36-41af-9c78-322666f1b8ca" name="Changes" comment="" />
+      <created>1688040490091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688040490091</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
